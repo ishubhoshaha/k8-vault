@@ -1,0 +1,8 @@
+key.txt
+
+vault.pem
+vault.csr
+vault-key.pem
+ca.pem
+ca.csr
+ca-key.pem
